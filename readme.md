@@ -10,3 +10,5 @@ git diff --staged - different between git add
 
 Esc :x - leave vim
 ![alt text for image](%pic_path%)
+
+bgbjdndfk
