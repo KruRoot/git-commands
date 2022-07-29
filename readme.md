@@ -48,5 +48,7 @@ git push -u origin master - push to origin address
 
 git push - push local repo to remote repo if already set
 
+git pull - update code from remote repo and merge to local repo
+
 
 file .gitignore - inside this file write all untracked files, after that add .gitignore to git and commit
