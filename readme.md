@@ -34,12 +34,6 @@ git diff %commit_number% - different with &commit_number&
 
 git diff --staged - different between git add
 
-
-Esc :x - leave vim
-
-![alt text for image](%pic_path%)
-
-
 git clone address - clone repo
 
 git remote add origin address - set a remote address as origin
