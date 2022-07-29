@@ -1,4 +1,4 @@
-=== How to work with Git ===
+# How to work with Git
 
 
 ![git_logo](logo.png)
