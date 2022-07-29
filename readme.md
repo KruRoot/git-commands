@@ -48,7 +48,15 @@ git push -u origin master - push to origin address
 
 git push - push local repo to remote repo if already set
 
+git push --tags - push tags to remote repo
+
 git pull - update code from remote repo and merge to local repo
+
+git tag -a <tag name> -m "tag_commit" - add tag to save current status of code, use if stable version
+
+git show <tag name> - to show tag <tag name>
+
+git tag -d <tag name> - to delete tag
 
 
 file .gitignore - inside this file write all untracked files, after that add .gitignore to git and commit
